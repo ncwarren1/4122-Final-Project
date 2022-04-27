@@ -1,4 +1,3 @@
 pandas
 altair
 streamlit
-pickle
