@@ -3,4 +3,4 @@ altair
 streamlit
 sklearn
 numpy
-matplotlib.pyplot
+matplotlib
