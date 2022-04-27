@@ -2,3 +2,5 @@ pandas
 altair
 streamlit
 sklearn
+numpy
+matplotlib.pyplot
